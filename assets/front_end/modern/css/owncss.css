@@ -1,0 +1,96 @@
+
+.category-swiper .swiper-slide-category > a {
+
+    display: inline-block;
+
+}
+
+.filter-option .filter-option-title {
+
+    background-color: #f0f0f9;
+
+    padding: .5rem;
+
+}
+ 
+.category-swiper .swiper-slide-category > a img {
+
+    border: 2px solid #16acdf;
+
+    border-radius: 100%;
+
+}
+ 
+.swiper-wrapper .slide-img > a {display: inline-block;}
+ 
+ 
+@media (max-width: 1399.99px) {
+ 
+  .container-xxl,
+
+  .container-xl,
+
+  .container-lg,
+
+  .container-md,
+
+  .container-sm,
+
+  body .container {
+
+    max-width: 1380px!important;
+
+    width:100%;
+
+  }
+
+}
+ 
+@media (min-width: 1200px) {
+
+   .container {
+
+        max-width: 1380px!important;
+
+        width: 100%;
+
+      }
+
+}
+
+
+.swiper-slide-style4 {
+max-width: 310px !important;
+width: 100%;
+}
+@media (max-width: 991.99px) {
+    .default-style-row > div {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+ 
+.default-style-row {
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.modal-body {
+padding: 1.5rem;
+}
+
+}
+#add-address-form input[type=radio] {
+    margin-top: 3px;
+}
+
+#add-address-form input[type=radio] {
+    margin-top: 3px;
+}
+
+#add-address-form .form-control,.select2-container .select2-selection--single {
+    border: 1px solid #e1e1e1;
+    background: #fff;
+    border-radius: .4rem;
+}
+
+
+
